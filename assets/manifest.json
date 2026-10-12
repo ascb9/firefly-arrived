@@ -1,0 +1,578 @@
+[
+  {
+    "name": "arrival",
+    "file": "assets/sprites/arrival.png",
+    "source": "assets/generated/firefly_poses_a.png",
+    "atlas_cell": 1,
+    "size": [
+      273,
+      373
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "surprise",
+    "file": "assets/sprites/surprise.png",
+    "source": "assets/generated/firefly_poses_a.png",
+    "atlas_cell": 2,
+    "size": [
+      238,
+      370
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "cheer",
+    "file": "assets/sprites/cheer.png",
+    "source": "assets/generated/firefly_poses_a.png",
+    "atlas_cell": 3,
+    "size": [
+      269,
+      369
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "point",
+    "file": "assets/sprites/point.png",
+    "source": "assets/generated/firefly_poses_a.png",
+    "atlas_cell": 4,
+    "size": [
+      265,
+      370
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "run_a",
+    "file": "assets/sprites/run_a.png",
+    "source": "assets/generated/firefly_poses_a.png",
+    "atlas_cell": 5,
+    "size": [
+      324,
+      354
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "run_b",
+    "file": "assets/sprites/run_b.png",
+    "source": "assets/generated/firefly_poses_a.png",
+    "atlas_cell": 6,
+    "size": [
+      325,
+      355
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "cake_a",
+    "file": "assets/sprites/cake_a.png",
+    "source": "assets/generated/firefly_poses_a.png",
+    "atlas_cell": 7,
+    "size": [
+      259,
+      330
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "cake_b",
+    "file": "assets/sprites/cake_b.png",
+    "source": "assets/generated/firefly_poses_a.png",
+    "atlas_cell": 8,
+    "size": [
+      255,
+      327
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "idea",
+    "file": "assets/sprites/idea.png",
+    "source": "assets/generated/firefly_poses_a.png",
+    "atlas_cell": 9,
+    "size": [
+      255,
+      371
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "flail",
+    "file": "assets/sprites/flail.png",
+    "source": "assets/generated/firefly_poses_a.png",
+    "atlas_cell": 10,
+    "size": [
+      303,
+      364
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "bashful",
+    "file": "assets/sprites/bashful.png",
+    "source": "assets/generated/firefly_poses_a.png",
+    "atlas_cell": 11,
+    "size": [
+      240,
+      369
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "sing_full",
+    "file": "assets/sprites/sing_full.png",
+    "source": "assets/generated/firefly_poses_a.png",
+    "atlas_cell": 12,
+    "size": [
+      253,
+      370
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "walk_a",
+    "file": "assets/sprites/walk_a.png",
+    "source": "assets/generated/firefly_poses_b.png",
+    "atlas_cell": 1,
+    "size": [
+      247,
+      370
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "walk_b",
+    "file": "assets/sprites/walk_b.png",
+    "source": "assets/generated/firefly_poses_b.png",
+    "atlas_cell": 2,
+    "size": [
+      259,
+      370
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "profile",
+    "file": "assets/sprites/profile.png",
+    "source": "assets/generated/firefly_poses_b.png",
+    "atlas_cell": 3,
+    "size": [
+      242,
+      365
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "bow",
+    "file": "assets/sprites/bow.png",
+    "source": "assets/generated/firefly_poses_b.png",
+    "atlas_cell": 4,
+    "size": [
+      285,
+      338
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "confused",
+    "file": "assets/sprites/confused.png",
+    "source": "assets/generated/firefly_poses_b.png",
+    "atlas_cell": 5,
+    "size": [
+      247,
+      357
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "jump",
+    "file": "assets/sprites/jump.png",
+    "source": "assets/generated/firefly_poses_b.png",
+    "atlas_cell": 6,
+    "size": [
+      276,
+      346
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "float",
+    "file": "assets/sprites/float.png",
+    "source": "assets/generated/firefly_poses_b.png",
+    "atlas_cell": 7,
+    "size": [
+      369,
+      337
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "camera_seated",
+    "file": "assets/sprites/camera_seated.png",
+    "source": "assets/generated/firefly_poses_b.png",
+    "atlas_cell": 8,
+    "size": [
+      252,
+      311
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "offer_cake",
+    "file": "assets/sprites/offer_cake.png",
+    "source": "assets/generated/firefly_poses_b.png",
+    "atlas_cell": 9,
+    "size": [
+      282,
+      364
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "photo",
+    "file": "assets/sprites/photo.png",
+    "source": "assets/generated/firefly_poses_b.png",
+    "atlas_cell": 10,
+    "size": [
+      247,
+      365
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "sparkler",
+    "file": "assets/sprites/sparkler.png",
+    "source": "assets/generated/firefly_poses_b.png",
+    "atlas_cell": 11,
+    "size": [
+      333,
+      365
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "wave",
+    "file": "assets/sprites/wave.png",
+    "source": "assets/generated/firefly_poses_b.png",
+    "atlas_cell": 12,
+    "size": [
+      240,
+      365
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "sing_a",
+    "file": "assets/sprites/sing_a.png",
+    "source": "assets/generated/firefly_poses_c.png",
+    "atlas_cell": 1,
+    "size": [
+      325,
+      346
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "sing_b",
+    "file": "assets/sprites/sing_b.png",
+    "source": "assets/generated/firefly_poses_c.png",
+    "atlas_cell": 2,
+    "size": [
+      309,
+      349
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "sing_rest",
+    "file": "assets/sprites/sing_rest.png",
+    "source": "assets/generated/firefly_poses_c.png",
+    "atlas_cell": 3,
+    "size": [
+      314,
+      356
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "device",
+    "file": "assets/sprites/device.png",
+    "source": "assets/generated/firefly_poses_c.png",
+    "atlas_cell": 4,
+    "size": [
+      315,
+      354
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "wow",
+    "file": "assets/sprites/wow.png",
+    "source": "assets/generated/firefly_poses_c.png",
+    "atlas_cell": 5,
+    "size": [
+      271,
+      374
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "turn",
+    "file": "assets/sprites/turn.png",
+    "source": "assets/generated/firefly_poses_c.png",
+    "atlas_cell": 6,
+    "size": [
+      358,
+      374
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "puddle",
+    "file": "assets/sprites/puddle.png",
+    "source": "assets/generated/firefly_poses_c.png",
+    "atlas_cell": 7,
+    "size": [
+      416,
+      228
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "determined",
+    "file": "assets/sprites/determined.png",
+    "source": "assets/generated/firefly_poses_c.png",
+    "atlas_cell": 8,
+    "size": [
+      269,
+      374
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "stelle_headphones",
+    "file": "assets/sprites/stelle_headphones.png",
+    "source": "assets/generated/firefly_poses_c.png",
+    "atlas_cell": 9,
+    "size": [
+      347,
+      335
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "stelle_headphones_wow",
+    "file": "assets/sprites/stelle_headphones_wow.png",
+    "source": "assets/generated/firefly_poses_c.png",
+    "atlas_cell": 10,
+    "size": [
+      342,
+      333
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "wave_bust",
+    "file": "assets/sprites/wave_bust.png",
+    "source": "assets/generated/firefly_poses_c.png",
+    "atlas_cell": 11,
+    "size": [
+      338,
+      368
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "selfie",
+    "file": "assets/sprites/selfie.png",
+    "source": "assets/generated/firefly_poses_c.png",
+    "atlas_cell": 12,
+    "size": [
+      363,
+      360
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "stelle_game",
+    "file": "assets/sprites/stelle_game.png",
+    "source": "assets/generated/stelle_sam.png",
+    "atlas_cell": 1,
+    "size": [
+      318,
+      340
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "stelle_look",
+    "file": "assets/sprites/stelle_look.png",
+    "source": "assets/generated/stelle_sam.png",
+    "atlas_cell": 2,
+    "size": [
+      323,
+      346
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "stelle_wow",
+    "file": "assets/sprites/stelle_wow.png",
+    "source": "assets/generated/stelle_sam.png",
+    "atlas_cell": 3,
+    "size": [
+      326,
+      333
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "stelle_smile",
+    "file": "assets/sprites/stelle_smile.png",
+    "source": "assets/generated/stelle_sam.png",
+    "atlas_cell": 4,
+    "size": [
+      316,
+      340
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "stelle_cake",
+    "file": "assets/sprites/stelle_cake.png",
+    "source": "assets/generated/stelle_sam.png",
+    "atlas_cell": 5,
+    "size": [
+      233,
+      374
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "stelle_photo",
+    "file": "assets/sprites/stelle_photo.png",
+    "source": "assets/generated/stelle_sam.png",
+    "atlas_cell": 6,
+    "size": [
+      281,
+      374
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "stelle_bin",
+    "file": "assets/sprites/stelle_bin.png",
+    "source": "assets/generated/stelle_sam.png",
+    "atlas_cell": 7,
+    "size": [
+      276,
+      371
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "stelle_wave",
+    "file": "assets/sprites/stelle_wave.png",
+    "source": "assets/generated/stelle_sam.png",
+    "atlas_cell": 8,
+    "size": [
+      294,
+      374
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "sam_wave",
+    "file": "assets/sprites/sam_wave.png",
+    "source": "assets/generated/stelle_sam.png",
+    "atlas_cell": 9,
+    "size": [
+      264,
+      335
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "sam_jump",
+    "file": "assets/sprites/sam_jump.png",
+    "source": "assets/generated/stelle_sam.png",
+    "atlas_cell": 10,
+    "size": [
+      318,
+      318
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "sam_helmet",
+    "file": "assets/sprites/sam_helmet.png",
+    "source": "assets/generated/stelle_sam.png",
+    "atlas_cell": 11,
+    "size": [
+      306,
+      252
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "transformer",
+    "file": "assets/sprites/transformer.png",
+    "source": "assets/generated/stelle_sam.png",
+    "atlas_cell": 12,
+    "size": [
+      215,
+      276
+    ],
+    "art": "GPT image",
+    "alpha": true
+  }
+]

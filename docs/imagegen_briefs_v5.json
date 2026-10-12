@@ -1,0 +1,19 @@
+{
+  "tool": "built-in GPT image",
+  "assets": [
+    {
+      "file": "assets/generated/firefly_fullbody_v5.png",
+      "layout": "6x4, 24 complete full-body poses",
+      "brief": "Match V4 appearance. Single gentle ordered greeting, notice observer, blush, raise both hands to mouth and lower head. Same scale and foot baseline. Redraw complete connected figure, no upper/lower split."
+    },
+    {
+      "file": "assets/generated/stelle_fullbody_v5.png",
+      "layout": "6x3, 18 complete full-body poses with bin",
+      "brief": "Match V4 style. Start looking inside trash can, slowly turn head/shoulders toward Firefly, end warm smile. Entire full-body connected drawing; planted feet; no pasted head."
+    },
+    {
+      "file": "assets/generated/title_japanese_v5.png",
+      "brief": "Edit existing title art using original title screenshot as typography reference. Exact ホタルがやってきたぞっ, two lines ホタルが / やってきたぞっ, furigana ほ た る, chunky angular kana, tilted upward, dark outline white outer rim, mint and yellow fill. No English or Chinese."
+    }
+  ]
+}

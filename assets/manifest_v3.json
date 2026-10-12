@@ -1,0 +1,386 @@
+[
+  {
+    "name": "bin_back",
+    "file": "assets/sprites/bin_back.png",
+    "source": "assets/generated/entry_stelle_v3.png",
+    "atlas_cell": 1,
+    "native_size": [
+      321,
+      287
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "bin_turn1",
+    "file": "assets/sprites/bin_turn1.png",
+    "source": "assets/generated/entry_stelle_v3.png",
+    "atlas_cell": 2,
+    "native_size": [
+      320,
+      286
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "bin_turn2",
+    "file": "assets/sprites/bin_turn2.png",
+    "source": "assets/generated/entry_stelle_v3.png",
+    "atlas_cell": 3,
+    "native_size": [
+      326,
+      286
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "bin_turn3",
+    "file": "assets/sprites/bin_turn3.png",
+    "source": "assets/generated/entry_stelle_v3.png",
+    "atlas_cell": 4,
+    "native_size": [
+      320,
+      283
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "entry_push",
+    "file": "assets/sprites/entry_push.png",
+    "source": "assets/generated/entry_stelle_v3.png",
+    "atlas_cell": 5,
+    "native_size": [
+      307,
+      340
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "entry_walk",
+    "file": "assets/sprites/entry_walk.png",
+    "source": "assets/generated/entry_stelle_v3.png",
+    "atlas_cell": 6,
+    "native_size": [
+      347,
+      338
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "entry_stop",
+    "file": "assets/sprites/entry_stop.png",
+    "source": "assets/generated/entry_stelle_v3.png",
+    "atlas_cell": 7,
+    "native_size": [
+      257,
+      334
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "crouch",
+    "file": "assets/sprites/crouch.png",
+    "source": "assets/generated/entry_stelle_v3.png",
+    "atlas_cell": 8,
+    "native_size": [
+      326,
+      275
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "landed",
+    "file": "assets/sprites/landed.png",
+    "source": "assets/generated/entry_stelle_v3.png",
+    "atlas_cell": 9,
+    "native_size": [
+      326,
+      323
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "doki",
+    "file": "assets/sprites/doki.png",
+    "source": "assets/generated/entry_stelle_v3.png",
+    "atlas_cell": 10,
+    "native_size": [
+      331,
+      331
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "sneeze",
+    "file": "assets/sprites/sneeze.png",
+    "source": "assets/generated/entry_stelle_v3.png",
+    "atlas_cell": 11,
+    "native_size": [
+      270,
+      330
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "point_open",
+    "file": "assets/sprites/point_open.png",
+    "source": "assets/generated/entry_stelle_v3.png",
+    "atlas_cell": 12,
+    "native_size": [
+      330,
+      317
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "submerged",
+    "file": "assets/sprites/submerged.png",
+    "source": "assets/generated/train_hop_v3.png",
+    "atlas_cell": 1,
+    "native_size": [
+      395,
+      205
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "splash_up",
+    "file": "assets/sprites/splash_up.png",
+    "source": "assets/generated/train_hop_v3.png",
+    "atlas_cell": 2,
+    "native_size": [
+      369,
+      442
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "hop_land",
+    "file": "assets/sprites/hop_land.png",
+    "source": "assets/generated/train_hop_v3.png",
+    "atlas_cell": 3,
+    "native_size": [
+      318,
+      412
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "table_lean",
+    "file": "assets/sprites/table_lean.png",
+    "source": "assets/generated/train_hop_v3.png",
+    "atlas_cell": 4,
+    "native_size": [
+      383,
+      410
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "hop_left",
+    "file": "assets/sprites/hop_left.png",
+    "source": "assets/generated/train_hop_v3.png",
+    "atlas_cell": 5,
+    "native_size": [
+      355,
+      412
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "hop_right",
+    "file": "assets/sprites/hop_right.png",
+    "source": "assets/generated/train_hop_v3.png",
+    "atlas_cell": 6,
+    "native_size": [
+      349,
+      416
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "hop_doki",
+    "file": "assets/sprites/hop_doki.png",
+    "source": "assets/generated/train_hop_v3.png",
+    "atlas_cell": 7,
+    "native_size": [
+      287,
+      418
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "tatan_hold",
+    "file": "assets/sprites/tatan_hold.png",
+    "source": "assets/generated/train_hop_v3.png",
+    "atlas_cell": 8,
+    "native_size": [
+      322,
+      411
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "mouth0",
+    "file": "assets/sprites/mouth0.png",
+    "source": "assets/generated/vocal_parts_v3.png",
+    "atlas_cell": 5,
+    "native_size": [
+      139,
+      46
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "mouth1",
+    "file": "assets/sprites/mouth1.png",
+    "source": "assets/generated/vocal_parts_v3.png",
+    "atlas_cell": 6,
+    "native_size": [
+      84,
+      82
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "mouth2",
+    "file": "assets/sprites/mouth2.png",
+    "source": "assets/generated/vocal_parts_v3.png",
+    "atlas_cell": 7,
+    "native_size": [
+      124,
+      121
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "mouth3",
+    "file": "assets/sprites/mouth3.png",
+    "source": "assets/generated/vocal_parts_v3.png",
+    "atlas_cell": 8,
+    "native_size": [
+      159,
+      158
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "mouth4",
+    "file": "assets/sprites/mouth4.png",
+    "source": "assets/generated/vocal_parts_v3.png",
+    "atlas_cell": 9,
+    "native_size": [
+      176,
+      87
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "mouth5",
+    "file": "assets/sprites/mouth5.png",
+    "source": "assets/generated/vocal_parts_v3.png",
+    "atlas_cell": 10,
+    "native_size": [
+      150,
+      65
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "mouth6",
+    "file": "assets/sprites/mouth6.png",
+    "source": "assets/generated/vocal_parts_v3.png",
+    "atlas_cell": 11,
+    "native_size": [
+      120,
+      64
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "mouth7",
+    "file": "assets/sprites/mouth7.png",
+    "source": "assets/generated/vocal_parts_v3.png",
+    "atlas_cell": 12,
+    "native_size": [
+      150,
+      127
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "sing_fixed",
+    "file": "assets/sprites/sing_fixed.png",
+    "source": "assets/generated/vocal_bases_v3.png",
+    "atlas_cell": 1,
+    "native_size": [
+      403,
+      438
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "lie_fixed",
+    "file": "assets/sprites/lie_fixed.png",
+    "source": "assets/generated/vocal_bases_v3.png",
+    "atlas_cell": 2,
+    "native_size": [
+      586,
+      374
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "star_bust",
+    "file": "assets/sprites/star_bust.png",
+    "source": "assets/generated/vocal_bases_v3.png",
+    "atlas_cell": 4,
+    "native_size": [
+      439,
+      418
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "point_fixed",
+    "file": "assets/sprites/point_fixed.png",
+    "source": "assets/generated/point_full_v3.png",
+    "atlas_cell": 1,
+    "native_size": [
+      885,
+      1472
+    ],
+    "art": "GPT image",
+    "alpha": true
+  }
+]

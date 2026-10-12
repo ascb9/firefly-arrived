@@ -1,0 +1,277 @@
+[
+  {
+    "time": 213.513,
+    "word": "KIRAKIRA",
+    "pose": "kira0"
+  },
+  {
+    "time": 213.947,
+    "word": "PIKAPIKA",
+    "pose": "pika0"
+  },
+  {
+    "time": 214.414,
+    "word": "MOFUMOFU",
+    "pose": "mofu0"
+  },
+  {
+    "time": 214.848,
+    "word": "NADENADE",
+    "pose": "nade0"
+  },
+  {
+    "time": 215.282,
+    "word": "GURUGURU",
+    "pose": "guru0"
+  },
+  {
+    "time": 215.716,
+    "word": "GOROGORO",
+    "pose": "goro0"
+  },
+  {
+    "time": 216.183,
+    "word": "WAKUWAKU",
+    "pose": "waku0"
+  },
+  {
+    "time": 216.616,
+    "word": "UZUZU",
+    "pose": "uzu0"
+  },
+  {
+    "time": 217.05,
+    "word": "NORONORO",
+    "pose": "noro0"
+  },
+  {
+    "time": 217.484,
+    "word": "URORO",
+    "pose": "uro0"
+  },
+  {
+    "time": 217.918,
+    "word": "TEKUTEKU",
+    "pose": "teku0"
+  },
+  {
+    "time": 218.385,
+    "word": "KOSOKOSO",
+    "pose": "koso0"
+  },
+  {
+    "time": 218.819,
+    "word": "SUNSUN",
+    "pose": "sun0"
+  },
+  {
+    "time": 219.252,
+    "word": "PEROPERO",
+    "pose": "pero0"
+  },
+  {
+    "time": 219.686,
+    "word": "NICONICO",
+    "pose": "nico0"
+  },
+  {
+    "time": 220.153,
+    "word": "BATABATA",
+    "pose": "bata0"
+  },
+  {
+    "time": 220.587,
+    "word": "KIRAKIRA",
+    "pose": "kira1"
+  },
+  {
+    "time": 221.021,
+    "word": "PIKAPIKA",
+    "pose": "pika1"
+  },
+  {
+    "time": 221.488,
+    "word": "MOFUMOFU",
+    "pose": "mofu1"
+  },
+  {
+    "time": 221.922,
+    "word": "NADENADE",
+    "pose": "nade1"
+  },
+  {
+    "time": 222.355,
+    "word": "GURUGURU",
+    "pose": "guru1"
+  },
+  {
+    "time": 222.789,
+    "word": "GOROGORO",
+    "pose": "goro1"
+  },
+  {
+    "time": 223.256,
+    "word": "WAKUWAKU",
+    "pose": "waku1"
+  },
+  {
+    "time": 223.69,
+    "word": "UZUZU",
+    "pose": "uzu1"
+  },
+  {
+    "time": 224.124,
+    "word": "NORONORO",
+    "pose": "noro1"
+  },
+  {
+    "time": 224.558,
+    "word": "URORO",
+    "pose": "uro1"
+  },
+  {
+    "time": 224.991,
+    "word": "TEKUTEKU",
+    "pose": "teku1"
+  },
+  {
+    "time": 225.459,
+    "word": "O!?",
+    "pose": "oh"
+  },
+  {
+    "time": 225.892,
+    "word": "ITADAKIMASU",
+    "pose": "chew7"
+  },
+  {
+    "time": 226.993,
+    "word": "MOGU",
+    "pose": "chew2"
+  },
+  {
+    "time": 227.194,
+    "word": "MOGUMOGU",
+    "pose": "chew4"
+  },
+  {
+    "time": 227.427,
+    "word": "MOGUMOGU",
+    "pose": "chew_zoom"
+  },
+  {
+    "time": 227.661,
+    "word": "KIRAKIRA",
+    "pose": "kira2"
+  },
+  {
+    "time": 228.095,
+    "word": "PIKAPIKA",
+    "pose": "pika2"
+  },
+  {
+    "time": 228.562,
+    "word": "MOFUMOFU",
+    "pose": "mofu2"
+  },
+  {
+    "time": 228.995,
+    "word": "NADENADE",
+    "pose": "nade2"
+  },
+  {
+    "time": 229.429,
+    "word": "GURUGURU",
+    "pose": "guru2"
+  },
+  {
+    "time": 229.863,
+    "word": "GOROGORO",
+    "pose": "goro2"
+  },
+  {
+    "time": 230.33,
+    "word": "WAKUWAKU",
+    "pose": "waku2"
+  },
+  {
+    "time": 230.764,
+    "word": "UZUZU",
+    "pose": "uzu2"
+  },
+  {
+    "time": 231.198,
+    "word": "NORONORO",
+    "pose": "noro2"
+  },
+  {
+    "time": 231.631,
+    "word": "URORO",
+    "pose": "uro2"
+  },
+  {
+    "time": 232.065,
+    "word": "TEKUTEKU",
+    "pose": "teku2"
+  },
+  {
+    "time": 232.532,
+    "word": "KOSOKOSO",
+    "pose": "koso1"
+  },
+  {
+    "time": 232.966,
+    "word": "SUNSUN",
+    "pose": "sun1"
+  },
+  {
+    "time": 233.4,
+    "word": "PEROPERO",
+    "pose": "pero1"
+  },
+  {
+    "time": 233.834,
+    "word": "NICONICO",
+    "pose": "nico1"
+  },
+  {
+    "time": 234.301,
+    "word": "BATABATA",
+    "pose": "bata1"
+  },
+  {
+    "time": 234.701,
+    "word": "DOKODOKO",
+    "pose": "doko"
+  },
+  {
+    "time": 235.168,
+    "word": "SYA-N",
+    "pose": "shan"
+  },
+  {
+    "time": 235.602,
+    "word": "TATAN!",
+    "pose": "tatan"
+  },
+  {
+    "time": 236.036,
+    "word": "SYA-N",
+    "pose": "jyan"
+  },
+  {
+    "time": 236.47,
+    "word": "GYUNGYU-N",
+    "pose": "gyu1"
+  },
+  {
+    "time": 237.37,
+    "word": "KA!",
+    "pose": "ka"
+  },
+  {
+    "time": 237.704,
+    "word": "DO-N",
+    "pose": "don"
+  }
+]

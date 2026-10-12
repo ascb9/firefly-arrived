@@ -1,0 +1,81 @@
+[
+  {
+    "name": "ending_firefly_a_v4",
+    "refs": [
+      "assets/sprites/turnwave.png",
+      "assets/sprites/caught.png",
+      "assets/sprites/blush0.png"
+    ],
+    "prompt": "Use case: illustration-story. Production transparent animation sprite atlas for a cute 2D chibi Firefly fan hand-drawn PV. Match the input references exactly: warm brown clean outlines, flat cream-white hair fading pale mint, black/white/mint outfit with gold trim, green eyes, black headband and leaf ornament always on viewer RIGHT. Simple cel shading, 2.4 heads tall, two arms and two legs. Real transparent alpha, no background, text, labels, frame borders, particles or props unless specified. Characters must be separated with generous gutters; no part crosses a cell. Equal-sized cells read left-to-right, top-to-bottom. Keep character model, face proportions, head size, outfit details and scale consistent; these are consecutive animation poses, not unrelated illustrations.\nAsset: a 4-column by 3-row atlas, EXACTLY 12 FULL-BODY consecutive key drawings for the first half of a shy discovery scene. Same planted stance, both boots visible in every cell. She stands on the RIGHT side of the eventual scene and looks toward someone to her LEFT. Tiny incremental changes between neighboring cells. Frame 1: friendly wave with her viewer-left hand, smiling. 2: same wave hand lifts slightly. 3: wave gently pauses, smile softens. 4: eyes start noticing someone on left, waving fingers relax. 5: chin turns a few degrees left, eyebrows lift slightly, hand lowers a little. 6: turns eyes clearly left, hand stops mid-wave, tiny surprised O mouth. 7: surprised eyes soften, head slightly lowers, raised hand drops to chest height. 8: both hands begin moving close to chest, earliest faint pink cheeks. 9: shoulders lift just a little, eyes look down-left, slight embarrassed smile, blush increases. 10: hands loosely together at sternum, fingers relaxed, cheeks pink. 11: chin tucks a little, shy small smile, hands rest close to chest. 12: same stance, strong but gentle blush, shy averted gaze, hands near chest ready to rise toward cheeks. Hair and skirt sway very slightly with the action, no hopping, no changing body height, no change of costume. Keep head orientation smoothly incremental. Grid canvas aspect 4:3, each full-body figure entirely within one equal cell.",
+    "transparent_background": true
+  },
+  {
+    "name": "ending_stelle_v4",
+    "refs": [
+      "assets/sprites/bin_back.png",
+      "assets/sprites/bin_turn1.png",
+      "assets/sprites/bin_turn2.png",
+      "assets/sprites/bin_turn3.png"
+    ],
+    "prompt": "Use case: illustration-story. Edit/reference the supplied chibi Stelle (female Trailblazer) leaning into a gray metal trash bin, matching the reference PV art style exactly. Create a transparent 4-column by 3-row atlas, EXACTLY 12 consecutive key drawings of a gentle single HEAD TURN from looking inside the bin to noticing Firefly on the RIGHT. In every cell the rigid trash bin, raised lid, torso, coat, arms leaning on the rim, skirt, legs and boots stay at the exact same position, shape, scale and angle. Animate ONLY her head and hair: 1 looking down inside bin, face fully hidden from back; 2 same back head starting to lift; 3 head lifted a few degrees, still no face; 4 yaw slightly to viewer right, a cheek edge begins to show; 5 another small yaw, one golden eye barely visible; 6 three-quarter rear view, one eye sees something right; 7 another slight yaw toward right, mouth neutral; 8 face reaches three-quarter view looking right, eyes gently widen; 9 slight curious surprise, tiny parted mouth; 10 surprise softens, subtle smile; 11 relaxed warm half smile; 12 gentle amused smile with eyes softly relaxed. NO body rotation, no arms moving, no bucket deformation, no props emerging, no speech or text. Warm brown clean outlines, silver-gray hair, golden eyes, gray/black coat with gold accents exactly as inputs. Every cell shows the ENTIRE figure and bin, equal-sized 4x3 cells with generous transparent gutters, no overlap, no background.",
+    "transparent_background": true
+  },
+  {
+    "name": "accents_v4",
+    "refs": [
+      "assets/sprites/wave_bust.png",
+      "assets/sprites/jyan.png",
+      "assets/sprites/tatan_hold.png",
+      "assets/sprites/hop_doki.png",
+      "assets/sprites/sneeze.png"
+    ],
+    "prompt": "Use case: illustration-story. Production transparent animation sprite atlas for a cute 2D chibi Firefly fan hand-drawn PV. Match the input references exactly: warm brown clean outlines, flat cream-white hair fading pale mint, black/white/mint outfit with gold trim, green eyes, black headband and leaf ornament always on viewer RIGHT. Simple cel shading, 2.4 heads tall, two arms and two legs. Real transparent alpha, no background, text, labels, frame borders, particles or props unless specified. Characters must be separated with generous gutters; no part crosses a cell. Equal-sized cells read left-to-right, top-to-bottom. Keep character model, face proportions, head size, outfit details and scale consistent; these are consecutive animation poses, not unrelated illustrations.\nAsset: a 4-column by 4-row atlas of EXACTLY 16 performance key poses. Row 1 is FOUR large upper-body busts for the two vocal 'Yo' accents: 1 smiling green star-eyes, both hands beginning to rise; 2 energetic both index fingers pointing upward, wide joyful mouth; 3 torso leans the opposite way, one hand high and one hand near shoulder, star-eyes and open 'Yo' mouth; 4 same second accent settling slightly, hands still high, bright smile. Busts show head, full hands and waist, no clipped fingers. Rows 2-4 are FULL-BODY chibis, both feet visible. Row 2: 5 crouched cheer anticipation with hands near chest; 6 beginning a joyful jump, arms spread upward, open singing mouth; 7 maximally exaggerated joyous airborne 'Yeah', arms in a wide V, legs tucked/asymmetric, hair fans out, huge happy open mouth, closed crescent eyes; 8 descends from the jump, arms still high, boots beginning to reach ground. Row 3: 9 soft landing with bent knees, happy face, hands outward; 10 straightens into a joyful arms-out singing hold, big smile; 11 sudden heart-flutter surprise, both hands at chest and eyes wide; 12 springy torso twist with one arm pointing and the opposite hand on hip, confident playful expression, matching the original hand-drawn TATAN pose. Row 4: 13 sneeze anticipation, chin slightly up, one hand approaching mouth; 14 actual cute sneeze into her hand, head dips, eyes shut tightly, a little hair follow-through; 15 curled-up rolling body with knees drawn in and hands tucked, sideways compact silhouette; 16 triumphant big open-arms 'Jyan' exclamation, boots spread, ecstatic wide mouth, hair ends flaring slightly. Do not make any of these battle poses. Preserve all Firefly clothing and face identifiers. Each individual drawing entirely within its own equal cell, no labels or effects. Square canvas.",
+    "transparent_background": true
+  },
+  {
+    "name": "ending_firefly_b_v4",
+    "refs": [
+      "assets/generated/ending_firefly_a_v4.png",
+      "assets/sprites/blush1.png"
+    ],
+    "prompt": "Use case: illustration-story. Production transparent animation sprite atlas for the second half of a shy Firefly discovery scene in a 2D chibi hand-drawn PV. Image 1 is the authoritative character model and FIRST HALF of this sequence; start from its LAST CELL (row 3 column 4): standing Firefly with pink cheeks and hands just below her face. Image 2 is a supporting expression reference only. Draw EXACTLY 12 consecutive FULL-BODY keyframes in an equal 4-column by 3-row grid, read left to right top to bottom. Same face, cream-to-mint long hair, same dark headband, leaf hair accessory always viewer RIGHT, same black-white-mint-gold clothes and boots as Image 1. Same stance, planted boots, same head size, tiny incremental changes between adjacent cells; no hopping or costume changes. She is shy because someone on her LEFT has noticed her.\nFrames: 1 matches the LAST CELL of image 1 exactly, blushing with hands near chin. 2 hands rise a little toward cheeks, shy averted gaze down-left. 3 fingers touch cheeks lightly, blush warm and visible. 4 eyes begin to close gently, chin tucks slightly. 5 hands cup cheeks softly, eyes half closed, embarrassed small smile. 6 eyes closed, hands cover cheeks closer to mouth, hair settles slightly. 7 same pose breathes out and shoulders relax a tiny amount. 8 one hand lowers just enough to peek, one eye starts to open toward LEFT. 9 peeks bashfully through relaxed fingers, rosy cheeks, tiny shy smile. 10 head tilts a few degrees down-left, one hand stays near cheek while the other returns to chest. 11 soft embarrassed smile looking left, fingertips near cheek, long hair follows the tilt. 12 final gentle shy smile, cheeks still pink, gaze down-left, one hand near cheek and one at chest; hold this warm ending pose. Entire character with BOTH boots visible in each cell, generous transparent gutters, no overlap between cells. Clean warm brown outlines, simple flat colors, delicate minimal cel shading exactly as Image 1. No background, speech, text, labels, hearts, particles or props. Make the action continuous and restrained, with anatomically correct hands and limbs.",
+    "transparent_background": true
+  },
+  {
+    "name": "ending_firefly_mid_a_v4",
+    "requested_asset": "ending_firefly_mid_a_v4",
+    "refs": [
+      "assets/generated/ending_firefly_a_v4.png",
+      "assets/generated/ending_firefly_b_v4.png"
+    ],
+    "prompt": "Use case: illustration-story. Draw genuine clean intermediate animation key poses for the supplied Firefly chibi sequence. This is an animation sprite atlas, NOT optical morphing: crisp brown ink lines, no blur, no doubled contours, no melted facial features. Match the authoritative reference model exactly: same face/head size, cream hair fading pale mint, green eyes, black headband, leaf ornament always viewer RIGHT, same white-black-mint-gold outfit and boots, planted stance. Equal 4-column by 3-row grid of EXACTLY 12 full-body drawings, read left to right top to bottom; generous transparent gutters, all fingers and both boots inside each cell, no overlap, no labels/background/effects. Each cell represents the halfway movement between two adjacent numbered cells of the reference atlas, preserving both endpoints' anatomy and emotion. Make tiny incremental hand and face changes, not unrelated poses. Foot and torso placement stay stable.\nImage 1 contains first 12 source poses, Image 2 contains the following 12. Output cells 1 through 11 respectively show the HALF-WAY action between Image 1 cells (1,2), (2,3), (3,4), (4,5), (5,6), (6,7), (7,8), (8,9), (9,10), (10,11), (11,12). Output cell 12 is the half-way continuation from Image 1 cell12 to Image 2 cell1. Sequence: wave rises slightly, pauses, fingers relax, notices someone LEFT, mouth opens a tiny O, waving hand gently lowers to chest, both hands approach chest, cheeks progressively blush and eyes avert down-left, then hands approach chin. Keep her ordinary shy reaction restrained and continuous. Same planted feet, same character proportions and clothing throughout. Make eyes, mouth and hands extremely clean and anatomically clear.",
+    "transparent_background": true
+  },
+  {
+    "name": "ending_firefly_mid_b_v4",
+    "requested_asset": "ending_firefly_mid_b_v4",
+    "refs": [
+      "assets/generated/ending_firefly_b_v4.png",
+      "assets/generated/ending_firefly_a_v4.png"
+    ],
+    "prompt": "Use case: illustration-story. Draw genuine clean intermediate animation key poses for the supplied Firefly chibi sequence. This is an animation sprite atlas, NOT optical morphing: crisp brown ink lines, no blur, no doubled contours, no melted facial features. Match the authoritative reference model exactly: same face/head size, cream hair fading pale mint, green eyes, black headband, leaf ornament always viewer RIGHT, same white-black-mint-gold outfit and boots, planted stance. Equal 4-column by 3-row grid of EXACTLY 12 full-body drawings, read left to right top to bottom; generous transparent gutters, all fingers and both boots inside each cell, no overlap, no labels/background/effects. Each cell represents the halfway movement between two adjacent numbered cells of the reference atlas, preserving both endpoints' anatomy and emotion. Make tiny incremental hand and face changes, not unrelated poses. Foot and torso placement stay stable.\nImage 1 contains the 12 authoritative source poses of the second half, Image 2 supports the exact character model. Output cells 1 through 11 respectively show the HALF-WAY action between Image 1 cells (1,2), (2,3), (3,4), (4,5), (5,6), (6,7), (7,8), (8,9), (9,10), (10,11), (11,12). Output cell12 is a tiny final settling continuation of Image 1 cell12, one hand near cheek, one at chest, shy warm smile and averted gaze LEFT. The sequence gradually raises fingers to cheeks, gently closes eyes in embarrassment, lets shoulders relax, peeks through one eye, lowers one hand to chest, then settles into a shy smile. Rosy cheeks stay visible. No abrupt torso movement, no costume changes, no extra limbs. Crisp single contours for eyes and hands, no translucency, no distortion.",
+    "transparent_background": true
+  },
+  {
+    "name": "ending_stelle_mid_draft_v4",
+    "requested_asset": "ending_stelle_mid_v4",
+    "refs": [
+      "assets/generated/ending_stelle_v4.png"
+    ],
+    "prompt": "Use case: illustration-story. Use the supplied chibi Stelle with trash bin as an authoritative animation reference. Create EXACTLY SIX clean FULL-FIGURE intermediate key poses in a 3-column by 2-row transparent sprite atlas. All six are strictly BETWEEN reference cell3 (raised back-of-head, face invisible) and reference cell4 (right-facing side profile). Every drawing keeps the exact same rigid gray trash bin, raised lid, hands resting on rim, coat, hips, legs and boots as reference cell3; ONLY the head turns smoothly toward RIGHT. Output1: very slightly rotated rear head, no face; output2: rear three-quarter, only cheek edge appears; output3: a little more yaw, eye still mostly hidden; output4: tiny part of one golden eye appears; output5: one golden eye partially visible, mouth edge nearly hidden; output6: approaches right side profile of reference cell4 but still slightly more rear-facing. These are six incremental tiny yaw steps, NEVER jump straight to full face. Same gray hair, face and head size, clean warm brown outlines, black-gray-gold outfit. No blurred/morphed/doubled facial contours, no motion lines, no body or bin movement, no text or background. Entire figure, bin and BOTH boots within each equal cell, generous transparent gutters, no overlaps.",
+    "transparent_background": true
+  },
+  {
+    "name": "ending_stelle_mid_v4",
+    "refs": [
+      "assets/generated/ending_stelle_mid_draft_v4.png"
+    ],
+    "prompt": "Use case: background-extraction. Edit target: the supplied SIX-cell Stelle animation sprite atlas. REMOVE the entire brown blurred/glowing background and every background haze or cast shadow. Return the EXACT same six chibi figures with bins and poses in the SAME 3-column by 2-row layout, original colors, sizes and clean brown outlines, with real transparent alpha. Every pixel outside the six artwork silhouettes must be fully transparent alpha=0, including gutters and the background between hair strands, arms, bin lid and legs. Artwork interiors must be fully opaque, not semitransparent. Keep all six poses, facial details, bin geometry, hands and boots unchanged; do not redraw characters, add anything, change grid layout or clip any part. NO solid-color or gradient backdrop, NO glow, NO labels or text. This is a production sprite cutout for overlay on a different background.",
+    "transparent_background": true
+  }
+]

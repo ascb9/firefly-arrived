@@ -1,0 +1,65 @@
+{
+  "file": "流萤来了哦_V4_表演与口型精修.mp4",
+  "format_duration_seconds": 301.0985,
+  "source_format_duration_seconds": 301.0985,
+  "video_width": 1920,
+  "video_height": 1080,
+  "video_codec": "h264",
+  "video_frames": 9021,
+  "source_video_frames": 9021,
+  "frame_count_equal": true,
+  "max_video_pts_error_seconds": 0.0,
+  "all_video_pts_identical": true,
+  "first_video_pts_seconds": 0.0,
+  "last_video_pts_seconds": 300.967,
+  "audio_codec": "aac",
+  "audio_sample_rate": 48000,
+  "audio_channels": 2,
+  "audio_duration_seconds": 301.0985,
+  "source_audio_packet_hash": "SHA256=6324750fc81ed2fbb3737c54bce41b23afe164868012b20d426b9121845e8fc9",
+  "final_audio_packet_hash": "SHA256=6324750fc81ed2fbb3737c54bce41b23afe164868012b20d426b9121845e8fc9",
+  "audio_packets_identical": true,
+  "bytes": 49617319,
+  "video_sha256": "1f0a4e1bca9393377d3cb9c4c56849c3c943a670eafac998f511f8eddabbf2e1",
+  "performance_checks": {
+    "all_sprite_pngs_valid": true,
+    "total_sprite_parts": 282,
+    "new_gpt_pose_parts": 82,
+    "ending_firefly_drawn_frames": 48,
+    "ending_stelle_drawn_frames": 18,
+    "firefly_boots_identical_all_ending_frames": true,
+    "stelle_bin_lower_body_identical_all_ending_frames": true,
+    "ending_pose_indices_monotonic": true,
+    "sing_mouth_native_face_axis_error_px": 0.2515,
+    "sing_mouth_eye_axis_rotation_error_deg": 0.0425,
+    "sing_body_mouth_only": {
+      "body_outside_mouth_identical": true,
+      "distinct_mouth_samples": 6
+    },
+    "closeup_body_mouth_only": {
+      "body_outside_mouth_identical": true,
+      "distinct_mouth_samples": 6
+    },
+    "chorus_body_mouth_only": {
+      "body_outside_mouth_identical": true,
+      "distinct_mouth_samples": 6
+    },
+    "chorus_sustained_vowel": true,
+    "chorus_opening_period_s": 0.8823529411764706,
+    "chorus_jaw_cycles_per_second": 1.1333333333333333,
+    "yo_source_onsets": [
+      36.169,
+      36.603
+    ],
+    "impact_source_onsets": [
+      149.983,
+      150.317,
+      150.751,
+      151.318,
+      151.752
+    ],
+    "source_onsets_are_native_frame_times": true,
+    "preview_representative_frames": 48
+  },
+  "visual_QA": "48 representative compositor frames; 82 new GPT-drawn poses; clean drawn ending intermediates; face-axis, rigid-bin/feet and mouth-only checks; encoded-video samples of requested intervals."
+}

@@ -1,0 +1,34 @@
+{
+  "file": "流萤来了哦_V4_修改片段预览.mp4",
+  "source_intervals_s": [
+    [
+      35.9,
+      37.3
+    ],
+    [
+      108.9,
+      113.1
+    ],
+    [
+      149.0,
+      153.7
+    ],
+    [
+      181.6,
+      187.8
+    ],
+    [
+      244.6,
+      248.3
+    ],
+    [
+      269.3,
+      272.9
+    ],
+    [
+      290.1,
+      296.5
+    ]
+  ],
+  "note": "Review-only concatenation; full deliverable retains original AAC packets and frame PTS. No extra annotation overlay."
+}

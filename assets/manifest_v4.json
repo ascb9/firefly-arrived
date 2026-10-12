@@ -1,0 +1,986 @@
+[
+  {
+    "name": "endff00",
+    "file": "assets/sprites/endff00.png",
+    "source": "assets/generated/ending_firefly_a_v4.png",
+    "cell": 1,
+    "size": [
+      296,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endff01",
+    "file": "assets/sprites/endff01.png",
+    "source": "assets/generated/ending_firefly_a_v4.png",
+    "cell": 2,
+    "size": [
+      301,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endff02",
+    "file": "assets/sprites/endff02.png",
+    "source": "assets/generated/ending_firefly_a_v4.png",
+    "cell": 3,
+    "size": [
+      296,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endff03",
+    "file": "assets/sprites/endff03.png",
+    "source": "assets/generated/ending_firefly_a_v4.png",
+    "cell": 4,
+    "size": [
+      270,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endff04",
+    "file": "assets/sprites/endff04.png",
+    "source": "assets/generated/ending_firefly_a_v4.png",
+    "cell": 5,
+    "size": [
+      280,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endff05",
+    "file": "assets/sprites/endff05.png",
+    "source": "assets/generated/ending_firefly_a_v4.png",
+    "cell": 6,
+    "size": [
+      286,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endff06",
+    "file": "assets/sprites/endff06.png",
+    "source": "assets/generated/ending_firefly_a_v4.png",
+    "cell": 7,
+    "size": [
+      286,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endff07",
+    "file": "assets/sprites/endff07.png",
+    "source": "assets/generated/ending_firefly_a_v4.png",
+    "cell": 8,
+    "size": [
+      281,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endff08",
+    "file": "assets/sprites/endff08.png",
+    "source": "assets/generated/ending_firefly_a_v4.png",
+    "cell": 9,
+    "size": [
+      289,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endff09",
+    "file": "assets/sprites/endff09.png",
+    "source": "assets/generated/ending_firefly_a_v4.png",
+    "cell": 10,
+    "size": [
+      288,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endff10",
+    "file": "assets/sprites/endff10.png",
+    "source": "assets/generated/ending_firefly_a_v4.png",
+    "cell": 11,
+    "size": [
+      287,
+      361
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endff11",
+    "file": "assets/sprites/endff11.png",
+    "source": "assets/generated/ending_firefly_a_v4.png",
+    "cell": 12,
+    "size": [
+      280,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endff12",
+    "file": "assets/sprites/endff12.png",
+    "source": "assets/generated/ending_firefly_b_v4.png",
+    "cell": 1,
+    "size": [
+      280,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endff13",
+    "file": "assets/sprites/endff13.png",
+    "source": "assets/generated/ending_firefly_b_v4.png",
+    "cell": 2,
+    "size": [
+      283,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endff14",
+    "file": "assets/sprites/endff14.png",
+    "source": "assets/generated/ending_firefly_b_v4.png",
+    "cell": 3,
+    "size": [
+      297,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endff15",
+    "file": "assets/sprites/endff15.png",
+    "source": "assets/generated/ending_firefly_b_v4.png",
+    "cell": 4,
+    "size": [
+      290,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endff16",
+    "file": "assets/sprites/endff16.png",
+    "source": "assets/generated/ending_firefly_b_v4.png",
+    "cell": 5,
+    "size": [
+      283,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endff17",
+    "file": "assets/sprites/endff17.png",
+    "source": "assets/generated/ending_firefly_b_v4.png",
+    "cell": 6,
+    "size": [
+      295,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endff18",
+    "file": "assets/sprites/endff18.png",
+    "source": "assets/generated/ending_firefly_b_v4.png",
+    "cell": 7,
+    "size": [
+      301,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endff19",
+    "file": "assets/sprites/endff19.png",
+    "source": "assets/generated/ending_firefly_b_v4.png",
+    "cell": 8,
+    "size": [
+      287,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endff20",
+    "file": "assets/sprites/endff20.png",
+    "source": "assets/generated/ending_firefly_b_v4.png",
+    "cell": 9,
+    "size": [
+      297,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endff21",
+    "file": "assets/sprites/endff21.png",
+    "source": "assets/generated/ending_firefly_b_v4.png",
+    "cell": 10,
+    "size": [
+      294,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endff22",
+    "file": "assets/sprites/endff22.png",
+    "source": "assets/generated/ending_firefly_b_v4.png",
+    "cell": 11,
+    "size": [
+      301,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endff23",
+    "file": "assets/sprites/endff23.png",
+    "source": "assets/generated/ending_firefly_b_v4.png",
+    "cell": 12,
+    "size": [
+      294,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endstar00",
+    "file": "assets/sprites/endstar00.png",
+    "source": "assets/generated/ending_stelle_v4.png",
+    "cell": 1,
+    "size": [
+      343,
+      326
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endstar01",
+    "file": "assets/sprites/endstar01.png",
+    "source": "assets/generated/ending_stelle_v4.png",
+    "cell": 2,
+    "size": [
+      347,
+      324
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endstar02",
+    "file": "assets/sprites/endstar02.png",
+    "source": "assets/generated/ending_stelle_v4.png",
+    "cell": 3,
+    "size": [
+      348,
+      325
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endstar03",
+    "file": "assets/sprites/endstar03.png",
+    "source": "assets/generated/ending_stelle_v4.png",
+    "cell": 4,
+    "size": [
+      357,
+      329
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endstar04",
+    "file": "assets/sprites/endstar04.png",
+    "source": "assets/generated/ending_stelle_v4.png",
+    "cell": 5,
+    "size": [
+      349,
+      331
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endstar05",
+    "file": "assets/sprites/endstar05.png",
+    "source": "assets/generated/ending_stelle_v4.png",
+    "cell": 6,
+    "size": [
+      349,
+      335
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endstar06",
+    "file": "assets/sprites/endstar06.png",
+    "source": "assets/generated/ending_stelle_v4.png",
+    "cell": 7,
+    "size": [
+      354,
+      336
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endstar07",
+    "file": "assets/sprites/endstar07.png",
+    "source": "assets/generated/ending_stelle_v4.png",
+    "cell": 8,
+    "size": [
+      360,
+      335
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endstar08",
+    "file": "assets/sprites/endstar08.png",
+    "source": "assets/generated/ending_stelle_v4.png",
+    "cell": 9,
+    "size": [
+      347,
+      342
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endstar09",
+    "file": "assets/sprites/endstar09.png",
+    "source": "assets/generated/ending_stelle_v4.png",
+    "cell": 10,
+    "size": [
+      350,
+      341
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endstar10",
+    "file": "assets/sprites/endstar10.png",
+    "source": "assets/generated/ending_stelle_v4.png",
+    "cell": 11,
+    "size": [
+      356,
+      340
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endstar11",
+    "file": "assets/sprites/endstar11.png",
+    "source": "assets/generated/ending_stelle_v4.png",
+    "cell": 12,
+    "size": [
+      359,
+      335
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endffmid_a00",
+    "file": "assets/sprites/endffmid_a00.png",
+    "source": "assets/generated/ending_firefly_mid_a_v4.png",
+    "cell": 1,
+    "size": [
+      295,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endffmid_a01",
+    "file": "assets/sprites/endffmid_a01.png",
+    "source": "assets/generated/ending_firefly_mid_a_v4.png",
+    "cell": 2,
+    "size": [
+      306,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endffmid_a02",
+    "file": "assets/sprites/endffmid_a02.png",
+    "source": "assets/generated/ending_firefly_mid_a_v4.png",
+    "cell": 3,
+    "size": [
+      304,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endffmid_a03",
+    "file": "assets/sprites/endffmid_a03.png",
+    "source": "assets/generated/ending_firefly_mid_a_v4.png",
+    "cell": 4,
+    "size": [
+      287,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endffmid_a04",
+    "file": "assets/sprites/endffmid_a04.png",
+    "source": "assets/generated/ending_firefly_mid_a_v4.png",
+    "cell": 5,
+    "size": [
+      288,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endffmid_a05",
+    "file": "assets/sprites/endffmid_a05.png",
+    "source": "assets/generated/ending_firefly_mid_a_v4.png",
+    "cell": 6,
+    "size": [
+      291,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endffmid_a06",
+    "file": "assets/sprites/endffmid_a06.png",
+    "source": "assets/generated/ending_firefly_mid_a_v4.png",
+    "cell": 7,
+    "size": [
+      293,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endffmid_a07",
+    "file": "assets/sprites/endffmid_a07.png",
+    "source": "assets/generated/ending_firefly_mid_a_v4.png",
+    "cell": 8,
+    "size": [
+      291,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endffmid_a08",
+    "file": "assets/sprites/endffmid_a08.png",
+    "source": "assets/generated/ending_firefly_mid_a_v4.png",
+    "cell": 9,
+    "size": [
+      289,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endffmid_a09",
+    "file": "assets/sprites/endffmid_a09.png",
+    "source": "assets/generated/ending_firefly_mid_a_v4.png",
+    "cell": 10,
+    "size": [
+      290,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endffmid_a10",
+    "file": "assets/sprites/endffmid_a10.png",
+    "source": "assets/generated/ending_firefly_mid_a_v4.png",
+    "cell": 11,
+    "size": [
+      289,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endffmid_a11",
+    "file": "assets/sprites/endffmid_a11.png",
+    "source": "assets/generated/ending_firefly_mid_a_v4.png",
+    "cell": 12,
+    "size": [
+      285,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endffmid_b00",
+    "file": "assets/sprites/endffmid_b00.png",
+    "source": "assets/generated/ending_firefly_mid_b_v4.png",
+    "cell": 1,
+    "size": [
+      287,
+      361
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endffmid_b01",
+    "file": "assets/sprites/endffmid_b01.png",
+    "source": "assets/generated/ending_firefly_mid_b_v4.png",
+    "cell": 2,
+    "size": [
+      297,
+      361
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endffmid_b02",
+    "file": "assets/sprites/endffmid_b02.png",
+    "source": "assets/generated/ending_firefly_mid_b_v4.png",
+    "cell": 3,
+    "size": [
+      301,
+      361
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endffmid_b03",
+    "file": "assets/sprites/endffmid_b03.png",
+    "source": "assets/generated/ending_firefly_mid_b_v4.png",
+    "cell": 4,
+    "size": [
+      297,
+      361
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endffmid_b04",
+    "file": "assets/sprites/endffmid_b04.png",
+    "source": "assets/generated/ending_firefly_mid_b_v4.png",
+    "cell": 5,
+    "size": [
+      289,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endffmid_b05",
+    "file": "assets/sprites/endffmid_b05.png",
+    "source": "assets/generated/ending_firefly_mid_b_v4.png",
+    "cell": 6,
+    "size": [
+      302,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endffmid_b06",
+    "file": "assets/sprites/endffmid_b06.png",
+    "source": "assets/generated/ending_firefly_mid_b_v4.png",
+    "cell": 7,
+    "size": [
+      305,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endffmid_b07",
+    "file": "assets/sprites/endffmid_b07.png",
+    "source": "assets/generated/ending_firefly_mid_b_v4.png",
+    "cell": 8,
+    "size": [
+      298,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endffmid_b08",
+    "file": "assets/sprites/endffmid_b08.png",
+    "source": "assets/generated/ending_firefly_mid_b_v4.png",
+    "cell": 9,
+    "size": [
+      299,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endffmid_b09",
+    "file": "assets/sprites/endffmid_b09.png",
+    "source": "assets/generated/ending_firefly_mid_b_v4.png",
+    "cell": 10,
+    "size": [
+      299,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endffmid_b10",
+    "file": "assets/sprites/endffmid_b10.png",
+    "source": "assets/generated/ending_firefly_mid_b_v4.png",
+    "cell": 11,
+    "size": [
+      309,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endffmid_b11",
+    "file": "assets/sprites/endffmid_b11.png",
+    "source": "assets/generated/ending_firefly_mid_b_v4.png",
+    "cell": 12,
+    "size": [
+      302,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endstarmid00",
+    "file": "assets/sprites/endstarmid00.png",
+    "source": "assets/generated/ending_stelle_mid_v4.png",
+    "cell": 1,
+    "size": [
+      442,
+      426
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endstarmid01",
+    "file": "assets/sprites/endstarmid01.png",
+    "source": "assets/generated/ending_stelle_mid_v4.png",
+    "cell": 2,
+    "size": [
+      443,
+      426
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endstarmid02",
+    "file": "assets/sprites/endstarmid02.png",
+    "source": "assets/generated/ending_stelle_mid_v4.png",
+    "cell": 3,
+    "size": [
+      442,
+      426
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endstarmid03",
+    "file": "assets/sprites/endstarmid03.png",
+    "source": "assets/generated/ending_stelle_mid_v4.png",
+    "cell": 4,
+    "size": [
+      451,
+      429
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endstarmid04",
+    "file": "assets/sprites/endstarmid04.png",
+    "source": "assets/generated/ending_stelle_mid_v4.png",
+    "cell": 5,
+    "size": [
+      450,
+      429
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "endstarmid05",
+    "file": "assets/sprites/endstarmid05.png",
+    "source": "assets/generated/ending_stelle_mid_v4.png",
+    "cell": 6,
+    "size": [
+      453,
+      429
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "yo0",
+    "file": "assets/sprites/yo0.png",
+    "source": "assets/generated/accents_v4.png",
+    "cell": 1,
+    "size": [
+      299,
+      294
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "yo1",
+    "file": "assets/sprites/yo1.png",
+    "source": "assets/generated/accents_v4.png",
+    "cell": 2,
+    "size": [
+      306,
+      294
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "yo2",
+    "file": "assets/sprites/yo2.png",
+    "source": "assets/generated/accents_v4.png",
+    "cell": 3,
+    "size": [
+      298,
+      288
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "yo3",
+    "file": "assets/sprites/yo3.png",
+    "source": "assets/generated/accents_v4.png",
+    "cell": 4,
+    "size": [
+      298,
+      295
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "yeah0",
+    "file": "assets/sprites/yeah0.png",
+    "source": "assets/generated/accents_v4.png",
+    "cell": 5,
+    "size": [
+      276,
+      298
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "yeah1",
+    "file": "assets/sprites/yeah1.png",
+    "source": "assets/generated/accents_v4.png",
+    "cell": 6,
+    "size": [
+      295,
+      302
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "yeah2",
+    "file": "assets/sprites/yeah2.png",
+    "source": "assets/generated/accents_v4.png",
+    "cell": 7,
+    "size": [
+      313,
+      269
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "yeah3",
+    "file": "assets/sprites/yeah3.png",
+    "source": "assets/generated/accents_v4.png",
+    "cell": 8,
+    "size": [
+      283,
+      305
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "yeah4",
+    "file": "assets/sprites/yeah4.png",
+    "source": "assets/generated/accents_v4.png",
+    "cell": 9,
+    "size": [
+      275,
+      302
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "yeah5",
+    "file": "assets/sprites/yeah5.png",
+    "source": "assets/generated/accents_v4.png",
+    "cell": 10,
+    "size": [
+      285,
+      311
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "im_doki",
+    "file": "assets/sprites/im_doki.png",
+    "source": "assets/generated/accents_v4.png",
+    "cell": 11,
+    "size": [
+      259,
+      313
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "im_tatan",
+    "file": "assets/sprites/im_tatan.png",
+    "source": "assets/generated/accents_v4.png",
+    "cell": 12,
+    "size": [
+      292,
+      313
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "im_pre_sneeze",
+    "file": "assets/sprites/im_pre_sneeze.png",
+    "source": "assets/generated/accents_v4.png",
+    "cell": 13,
+    "size": [
+      279,
+      314
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "im_sneeze",
+    "file": "assets/sprites/im_sneeze.png",
+    "source": "assets/generated/accents_v4.png",
+    "cell": 14,
+    "size": [
+      296,
+      313
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "im_roll",
+    "file": "assets/sprites/im_roll.png",
+    "source": "assets/generated/accents_v4.png",
+    "cell": 15,
+    "size": [
+      291,
+      262
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "im_jyan",
+    "file": "assets/sprites/im_jyan.png",
+    "source": "assets/generated/accents_v4.png",
+    "cell": 16,
+    "size": [
+      294,
+      314
+    ],
+    "art": "GPT image",
+    "alpha": true
+  }
+]

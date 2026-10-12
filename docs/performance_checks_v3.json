@@ -1,0 +1,36 @@
+{
+  "intro_left_corner_static": true,
+  "intro_right_corner_static": true,
+  "left_run_pose_static_within_cut": true,
+  "right_run_pose_static_within_cut": true,
+  "cake_run_pose_static_within_cut": true,
+  "stelle_back_body_static": true,
+  "super_chorus_mouth_only": {
+    "body_outside_mouth_identical": true,
+    "distinct_mouth_samples": 5,
+    "samples_s": [
+      182.0,
+      182.12,
+      182.24,
+      182.36,
+      182.48,
+      182.6
+    ]
+  },
+  "singing_mouth_only": {
+    "body_outside_mouth_identical": true,
+    "distinct_mouth_samples": 6,
+    "samples_s": [
+      245.3,
+      245.5,
+      245.7,
+      245.9,
+      246.1,
+      246.3
+    ]
+  },
+  "max_caption_cue_grid_lag_seconds": 0.0,
+  "caption_cues_within_one_source_frame": true,
+  "ai_new_sprite_parts": 32,
+  "total_sprite_parts": 200
+}

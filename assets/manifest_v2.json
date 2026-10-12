@@ -1,0 +1,2162 @@
+[
+  {
+    "name": "run0",
+    "file": "assets/sprites/run0.png",
+    "source": "assets/generated/movement_v2.png",
+    "atlas_cell": 1,
+    "native_size": [
+      327,
+      354
+    ],
+    "body_box": [
+      9,
+      9,
+      318,
+      345
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "run1",
+    "file": "assets/sprites/run1.png",
+    "source": "assets/generated/movement_v2.png",
+    "atlas_cell": 2,
+    "native_size": [
+      313,
+      362
+    ],
+    "body_box": [
+      9,
+      9,
+      304,
+      353
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "run2",
+    "file": "assets/sprites/run2.png",
+    "source": "assets/generated/movement_v2.png",
+    "atlas_cell": 3,
+    "native_size": [
+      315,
+      360
+    ],
+    "body_box": [
+      9,
+      9,
+      306,
+      351
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "run3",
+    "file": "assets/sprites/run3.png",
+    "source": "assets/generated/movement_v2.png",
+    "atlas_cell": 4,
+    "native_size": [
+      352,
+      305
+    ],
+    "body_box": [
+      9,
+      9,
+      343,
+      296
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "walk0",
+    "file": "assets/sprites/walk0.png",
+    "source": "assets/generated/movement_v2.png",
+    "atlas_cell": 5,
+    "native_size": [
+      298,
+      366
+    ],
+    "body_box": [
+      9,
+      9,
+      289,
+      357
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "walk1",
+    "file": "assets/sprites/walk1.png",
+    "source": "assets/generated/movement_v2.png",
+    "atlas_cell": 6,
+    "native_size": [
+      316,
+      365
+    ],
+    "body_box": [
+      9,
+      9,
+      307,
+      356
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "clap0",
+    "file": "assets/sprites/clap0.png",
+    "source": "assets/generated/movement_v2.png",
+    "atlas_cell": 7,
+    "native_size": [
+      267,
+      364
+    ],
+    "body_box": [
+      14,
+      9,
+      258,
+      355
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "clap1",
+    "file": "assets/sprites/clap1.png",
+    "source": "assets/generated/movement_v2.png",
+    "atlas_cell": 8,
+    "native_size": [
+      326,
+      371
+    ],
+    "body_box": [
+      31,
+      9,
+      299,
+      362
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "turnwave",
+    "file": "assets/sprites/turnwave.png",
+    "source": "assets/generated/movement_v2.png",
+    "atlas_cell": 9,
+    "native_size": [
+      306,
+      360
+    ],
+    "body_box": [
+      9,
+      9,
+      297,
+      351
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "skid",
+    "file": "assets/sprites/skid.png",
+    "source": "assets/generated/movement_v2.png",
+    "atlas_cell": 10,
+    "native_size": [
+      338,
+      333
+    ],
+    "body_box": [
+      9,
+      9,
+      329,
+      324
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "coil",
+    "file": "assets/sprites/coil.png",
+    "source": "assets/generated/movement_v2.png",
+    "atlas_cell": 11,
+    "native_size": [
+      301,
+      295
+    ],
+    "body_box": [
+      9,
+      9,
+      292,
+      286
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "starjump",
+    "file": "assets/sprites/starjump.png",
+    "source": "assets/generated/movement_v2.png",
+    "atlas_cell": 12,
+    "native_size": [
+      346,
+      319
+    ],
+    "body_box": [
+      12,
+      9,
+      337,
+      310
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "chew0",
+    "file": "assets/sprites/chew0.png",
+    "source": "assets/generated/chew_blush_v2.png",
+    "atlas_cell": 1,
+    "native_size": [
+      303,
+      360
+    ],
+    "body_box": [
+      9,
+      9,
+      294,
+      351
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "chew1",
+    "file": "assets/sprites/chew1.png",
+    "source": "assets/generated/chew_blush_v2.png",
+    "atlas_cell": 2,
+    "native_size": [
+      302,
+      359
+    ],
+    "body_box": [
+      9,
+      9,
+      293,
+      350
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "chew2",
+    "file": "assets/sprites/chew2.png",
+    "source": "assets/generated/chew_blush_v2.png",
+    "atlas_cell": 3,
+    "native_size": [
+      307,
+      362
+    ],
+    "body_box": [
+      9,
+      9,
+      298,
+      353
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "chew3",
+    "file": "assets/sprites/chew3.png",
+    "source": "assets/generated/chew_blush_v2.png",
+    "atlas_cell": 4,
+    "native_size": [
+      307,
+      363
+    ],
+    "body_box": [
+      9,
+      9,
+      298,
+      354
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "chew4",
+    "file": "assets/sprites/chew4.png",
+    "source": "assets/generated/chew_blush_v2.png",
+    "atlas_cell": 5,
+    "native_size": [
+      306,
+      355
+    ],
+    "body_box": [
+      9,
+      9,
+      297,
+      346
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "chew5",
+    "file": "assets/sprites/chew5.png",
+    "source": "assets/generated/chew_blush_v2.png",
+    "atlas_cell": 6,
+    "native_size": [
+      300,
+      352
+    ],
+    "body_box": [
+      9,
+      9,
+      291,
+      343
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "chew6",
+    "file": "assets/sprites/chew6.png",
+    "source": "assets/generated/chew_blush_v2.png",
+    "atlas_cell": 7,
+    "native_size": [
+      303,
+      352
+    ],
+    "body_box": [
+      9,
+      9,
+      294,
+      343
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "chew7",
+    "file": "assets/sprites/chew7.png",
+    "source": "assets/generated/chew_blush_v2.png",
+    "atlas_cell": 8,
+    "native_size": [
+      305,
+      357
+    ],
+    "body_box": [
+      9,
+      9,
+      296,
+      348
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "caught",
+    "file": "assets/sprites/caught.png",
+    "source": "assets/generated/chew_blush_v2.png",
+    "atlas_cell": 9,
+    "native_size": [
+      285,
+      387
+    ],
+    "body_box": [
+      20,
+      9,
+      276,
+      381
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "blush0",
+    "file": "assets/sprites/blush0.png",
+    "source": "assets/generated/chew_blush_v2.png",
+    "atlas_cell": 10,
+    "native_size": [
+      263,
+      386
+    ],
+    "body_box": [
+      9,
+      9,
+      254,
+      380
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "blush1",
+    "file": "assets/sprites/blush1.png",
+    "source": "assets/generated/chew_blush_v2.png",
+    "atlas_cell": 11,
+    "native_size": [
+      265,
+      383
+    ],
+    "body_box": [
+      9,
+      9,
+      256,
+      377
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "blush2",
+    "file": "assets/sprites/blush2.png",
+    "source": "assets/generated/chew_blush_v2.png",
+    "atlas_cell": 12,
+    "native_size": [
+      247,
+      376
+    ],
+    "body_box": [
+      9,
+      9,
+      238,
+      370
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "bin0",
+    "file": "assets/sprites/bin0.png",
+    "source": "assets/generated/stelle_trash_v2.png",
+    "atlas_cell": 1,
+    "native_size": [
+      315,
+      337
+    ],
+    "body_box": [
+      9,
+      9,
+      306,
+      328
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "bin1",
+    "file": "assets/sprites/bin1.png",
+    "source": "assets/generated/stelle_trash_v2.png",
+    "atlas_cell": 2,
+    "native_size": [
+      344,
+      327
+    ],
+    "body_box": [
+      9,
+      9,
+      335,
+      318
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "bin2",
+    "file": "assets/sprites/bin2.png",
+    "source": "assets/generated/stelle_trash_v2.png",
+    "atlas_cell": 3,
+    "native_size": [
+      322,
+      316
+    ],
+    "body_box": [
+      9,
+      9,
+      313,
+      307
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "bin3",
+    "file": "assets/sprites/bin3.png",
+    "source": "assets/generated/stelle_trash_v2.png",
+    "atlas_cell": 4,
+    "native_size": [
+      317,
+      318
+    ],
+    "body_box": [
+      9,
+      9,
+      308,
+      309
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "bin4",
+    "file": "assets/sprites/bin4.png",
+    "source": "assets/generated/stelle_trash_v2.png",
+    "atlas_cell": 5,
+    "native_size": [
+      324,
+      315
+    ],
+    "body_box": [
+      9,
+      9,
+      315,
+      306
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "bin5",
+    "file": "assets/sprites/bin5.png",
+    "source": "assets/generated/stelle_trash_v2.png",
+    "atlas_cell": 6,
+    "native_size": [
+      331,
+      319
+    ],
+    "body_box": [
+      41,
+      9,
+      322,
+      310
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "bin6",
+    "file": "assets/sprites/bin6.png",
+    "source": "assets/generated/stelle_trash_v2.png",
+    "atlas_cell": 7,
+    "native_size": [
+      349,
+      314
+    ],
+    "body_box": [
+      9,
+      10,
+      340,
+      305
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "bin7",
+    "file": "assets/sprites/bin7.png",
+    "source": "assets/generated/stelle_trash_v2.png",
+    "atlas_cell": 8,
+    "native_size": [
+      326,
+      309
+    ],
+    "body_box": [
+      9,
+      9,
+      317,
+      300
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "stelle_peek",
+    "file": "assets/sprites/stelle_peek.png",
+    "source": "assets/generated/stelle_trash_v2.png",
+    "atlas_cell": 9,
+    "native_size": [
+      246,
+      339
+    ],
+    "body_box": [
+      9,
+      9,
+      200,
+      330
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "stelle_giggle",
+    "file": "assets/sprites/stelle_giggle.png",
+    "source": "assets/generated/stelle_trash_v2.png",
+    "atlas_cell": 10,
+    "native_size": [
+      270,
+      347
+    ],
+    "body_box": [
+      9,
+      9,
+      261,
+      338
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "stelle_recoil",
+    "file": "assets/sprites/stelle_recoil.png",
+    "source": "assets/generated/stelle_trash_v2.png",
+    "atlas_cell": 11,
+    "native_size": [
+      288,
+      345
+    ],
+    "body_box": [
+      9,
+      9,
+      279,
+      336
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "bin_close",
+    "file": "assets/sprites/bin_close.png",
+    "source": "assets/generated/stelle_trash_v2.png",
+    "atlas_cell": 12,
+    "native_size": [
+      334,
+      336
+    ],
+    "body_box": [
+      9,
+      9,
+      325,
+      327
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "lie0",
+    "file": "assets/sprites/lie0.png",
+    "source": "assets/generated/device_lying_kafka_v2.png",
+    "atlas_cell": 5,
+    "native_size": [
+      399,
+      273
+    ],
+    "body_box": [
+      9,
+      9,
+      390,
+      264
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "lie1",
+    "file": "assets/sprites/lie1.png",
+    "source": "assets/generated/device_lying_kafka_v2.png",
+    "atlas_cell": 6,
+    "native_size": [
+      393,
+      270
+    ],
+    "body_box": [
+      9,
+      9,
+      384,
+      261
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "lie2",
+    "file": "assets/sprites/lie2.png",
+    "source": "assets/generated/device_lying_kafka_v2.png",
+    "atlas_cell": 7,
+    "native_size": [
+      393,
+      270
+    ],
+    "body_box": [
+      9,
+      9,
+      384,
+      261
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "lie3",
+    "file": "assets/sprites/lie3.png",
+    "source": "assets/generated/device_lying_kafka_v2.png",
+    "atlas_cell": 8,
+    "native_size": [
+      382,
+      270
+    ],
+    "body_box": [
+      9,
+      9,
+      373,
+      261
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "kafka0",
+    "file": "assets/sprites/kafka0.png",
+    "source": "assets/generated/device_lying_kafka_v2.png",
+    "atlas_cell": 9,
+    "native_size": [
+      386,
+      348
+    ],
+    "body_box": [
+      9,
+      9,
+      377,
+      339
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "kafka1",
+    "file": "assets/sprites/kafka1.png",
+    "source": "assets/generated/device_lying_kafka_v2.png",
+    "atlas_cell": 10,
+    "native_size": [
+      385,
+      347
+    ],
+    "body_box": [
+      9,
+      9,
+      376,
+      338
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "kafka2",
+    "file": "assets/sprites/kafka2.png",
+    "source": "assets/generated/device_lying_kafka_v2.png",
+    "atlas_cell": 11,
+    "native_size": [
+      390,
+      348
+    ],
+    "body_box": [
+      9,
+      9,
+      381,
+      339
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "kafka3",
+    "file": "assets/sprites/kafka3.png",
+    "source": "assets/generated/device_lying_kafka_v2.png",
+    "atlas_cell": 12,
+    "native_size": [
+      383,
+      345
+    ],
+    "body_box": [
+      9,
+      9,
+      375,
+      336
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "samhead0",
+    "file": "assets/sprites/samhead0.png",
+    "source": "assets/generated/sam_sparkler_v2.png",
+    "atlas_cell": 1,
+    "native_size": [
+      302,
+      359
+    ],
+    "body_box": [
+      23,
+      9,
+      274,
+      350
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "samhead1",
+    "file": "assets/sprites/samhead1.png",
+    "source": "assets/generated/sam_sparkler_v2.png",
+    "atlas_cell": 2,
+    "native_size": [
+      314,
+      361
+    ],
+    "body_box": [
+      30,
+      9,
+      305,
+      352
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "samhead2",
+    "file": "assets/sprites/samhead2.png",
+    "source": "assets/generated/sam_sparkler_v2.png",
+    "atlas_cell": 3,
+    "native_size": [
+      298,
+      376
+    ],
+    "body_box": [
+      13,
+      1,
+      289,
+      367
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "samhead3",
+    "file": "assets/sprites/samhead3.png",
+    "source": "assets/generated/sam_sparkler_v2.png",
+    "atlas_cell": 4,
+    "native_size": [
+      285,
+      348
+    ],
+    "body_box": [
+      9,
+      9,
+      273,
+      339
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "spin0",
+    "file": "assets/sprites/spin0.png",
+    "source": "assets/generated/sam_sparkler_v2.png",
+    "atlas_cell": 5,
+    "native_size": [
+      346,
+      359
+    ],
+    "body_box": [
+      9,
+      9,
+      335,
+      350
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "spin1",
+    "file": "assets/sprites/spin1.png",
+    "source": "assets/generated/sam_sparkler_v2.png",
+    "atlas_cell": 6,
+    "native_size": [
+      345,
+      358
+    ],
+    "body_box": [
+      22,
+      9,
+      336,
+      349
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "spin2",
+    "file": "assets/sprites/spin2.png",
+    "source": "assets/generated/sam_sparkler_v2.png",
+    "atlas_cell": 7,
+    "native_size": [
+      342,
+      361
+    ],
+    "body_box": [
+      12,
+      9,
+      330,
+      352
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "spin3",
+    "file": "assets/sprites/spin3.png",
+    "source": "assets/generated/sam_sparkler_v2.png",
+    "atlas_cell": 8,
+    "native_size": [
+      342,
+      358
+    ],
+    "body_box": [
+      9,
+      9,
+      327,
+      349
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "spin4",
+    "file": "assets/sprites/spin4.png",
+    "source": "assets/generated/sam_sparkler_v2.png",
+    "atlas_cell": 9,
+    "native_size": [
+      368,
+      364
+    ],
+    "body_box": [
+      23,
+      9,
+      352,
+      355
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "spin5",
+    "file": "assets/sprites/spin5.png",
+    "source": "assets/generated/sam_sparkler_v2.png",
+    "atlas_cell": 10,
+    "native_size": [
+      346,
+      361
+    ],
+    "body_box": [
+      19,
+      9,
+      337,
+      352
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "spin6",
+    "file": "assets/sprites/spin6.png",
+    "source": "assets/generated/sam_sparkler_v2.png",
+    "atlas_cell": 11,
+    "native_size": [
+      336,
+      364
+    ],
+    "body_box": [
+      10,
+      9,
+      320,
+      355
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "spin7",
+    "file": "assets/sprites/spin7.png",
+    "source": "assets/generated/sam_sparkler_v2.png",
+    "atlas_cell": 12,
+    "native_size": [
+      336,
+      361
+    ],
+    "body_box": [
+      17,
+      9,
+      327,
+      352
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "kira0",
+    "file": "assets/sprites/kira0.png",
+    "source": "assets/generated/quick_actions_a_v2.png",
+    "atlas_cell": 1,
+    "native_size": [
+      299,
+      385
+    ],
+    "body_box": [
+      9,
+      9,
+      290,
+      376
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "kira1",
+    "file": "assets/sprites/kira1.png",
+    "source": "assets/generated/quick_actions_a_v2.png",
+    "atlas_cell": 2,
+    "native_size": [
+      304,
+      392
+    ],
+    "body_box": [
+      9,
+      9,
+      284,
+      383
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "pika0",
+    "file": "assets/sprites/pika0.png",
+    "source": "assets/generated/quick_actions_a_v2.png",
+    "atlas_cell": 3,
+    "native_size": [
+      319,
+      389
+    ],
+    "body_box": [
+      9,
+      9,
+      310,
+      380
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "pika1",
+    "file": "assets/sprites/pika1.png",
+    "source": "assets/generated/quick_actions_a_v2.png",
+    "atlas_cell": 4,
+    "native_size": [
+      316,
+      390
+    ],
+    "body_box": [
+      21,
+      9,
+      307,
+      381
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "mofu0",
+    "file": "assets/sprites/mofu0.png",
+    "source": "assets/generated/quick_actions_a_v2.png",
+    "atlas_cell": 5,
+    "native_size": [
+      314,
+      410
+    ],
+    "body_box": [
+      9,
+      9,
+      305,
+      401
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "mofu1",
+    "file": "assets/sprites/mofu1.png",
+    "source": "assets/generated/quick_actions_a_v2.png",
+    "atlas_cell": 6,
+    "native_size": [
+      331,
+      338
+    ],
+    "body_box": [
+      9,
+      9,
+      313,
+      329
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "nade0",
+    "file": "assets/sprites/nade0.png",
+    "source": "assets/generated/quick_actions_a_v2.png",
+    "atlas_cell": 7,
+    "native_size": [
+      317,
+      340
+    ],
+    "body_box": [
+      9,
+      9,
+      308,
+      331
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "nade1",
+    "file": "assets/sprites/nade1.png",
+    "source": "assets/generated/quick_actions_a_v2.png",
+    "atlas_cell": 8,
+    "native_size": [
+      307,
+      341
+    ],
+    "body_box": [
+      9,
+      9,
+      298,
+      332
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "guru0",
+    "file": "assets/sprites/guru0.png",
+    "source": "assets/generated/quick_actions_a_v2.png",
+    "atlas_cell": 9,
+    "native_size": [
+      372,
+      220
+    ],
+    "body_box": [
+      9,
+      9,
+      363,
+      199
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "guru1",
+    "file": "assets/sprites/guru1.png",
+    "source": "assets/generated/quick_actions_a_v2.png",
+    "atlas_cell": 10,
+    "native_size": [
+      338,
+      300
+    ],
+    "body_box": [
+      9,
+      10,
+      329,
+      291
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "goro0",
+    "file": "assets/sprites/goro0.png",
+    "source": "assets/generated/quick_actions_a_v2.png",
+    "atlas_cell": 11,
+    "native_size": [
+      321,
+      302
+    ],
+    "body_box": [
+      12,
+      25,
+      312,
+      293
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "goro1",
+    "file": "assets/sprites/goro1.png",
+    "source": "assets/generated/quick_actions_a_v2.png",
+    "atlas_cell": 12,
+    "native_size": [
+      316,
+      300
+    ],
+    "body_box": [
+      9,
+      27,
+      296,
+      291
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "waku0",
+    "file": "assets/sprites/waku0.png",
+    "source": "assets/generated/quick_actions_b_v2.png",
+    "atlas_cell": 1,
+    "native_size": [
+      303,
+      387
+    ],
+    "body_box": [
+      9,
+      9,
+      294,
+      378
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "waku1",
+    "file": "assets/sprites/waku1.png",
+    "source": "assets/generated/quick_actions_b_v2.png",
+    "atlas_cell": 2,
+    "native_size": [
+      292,
+      376
+    ],
+    "body_box": [
+      9,
+      9,
+      283,
+      367
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "uzu0",
+    "file": "assets/sprites/uzu0.png",
+    "source": "assets/generated/quick_actions_b_v2.png",
+    "atlas_cell": 3,
+    "native_size": [
+      359,
+      365
+    ],
+    "body_box": [
+      9,
+      9,
+      350,
+      356
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "uzu1",
+    "file": "assets/sprites/uzu1.png",
+    "source": "assets/generated/quick_actions_b_v2.png",
+    "atlas_cell": 4,
+    "native_size": [
+      305,
+      382
+    ],
+    "body_box": [
+      9,
+      9,
+      296,
+      373
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "noro0",
+    "file": "assets/sprites/noro0.png",
+    "source": "assets/generated/quick_actions_b_v2.png",
+    "atlas_cell": 5,
+    "native_size": [
+      261,
+      375
+    ],
+    "body_box": [
+      9,
+      9,
+      252,
+      366
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "noro1",
+    "file": "assets/sprites/noro1.png",
+    "source": "assets/generated/quick_actions_b_v2.png",
+    "atlas_cell": 6,
+    "native_size": [
+      296,
+      362
+    ],
+    "body_box": [
+      9,
+      9,
+      287,
+      353
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "uro0",
+    "file": "assets/sprites/uro0.png",
+    "source": "assets/generated/quick_actions_b_v2.png",
+    "atlas_cell": 7,
+    "native_size": [
+      328,
+      372
+    ],
+    "body_box": [
+      9,
+      9,
+      319,
+      363
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "uro1",
+    "file": "assets/sprites/uro1.png",
+    "source": "assets/generated/quick_actions_b_v2.png",
+    "atlas_cell": 8,
+    "native_size": [
+      328,
+      361
+    ],
+    "body_box": [
+      9,
+      9,
+      319,
+      352
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "teku0",
+    "file": "assets/sprites/teku0.png",
+    "source": "assets/generated/quick_actions_b_v2.png",
+    "atlas_cell": 9,
+    "native_size": [
+      310,
+      349
+    ],
+    "body_box": [
+      9,
+      9,
+      301,
+      340
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "teku1",
+    "file": "assets/sprites/teku1.png",
+    "source": "assets/generated/quick_actions_b_v2.png",
+    "atlas_cell": 10,
+    "native_size": [
+      315,
+      351
+    ],
+    "body_box": [
+      9,
+      9,
+      306,
+      342
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "koso0",
+    "file": "assets/sprites/koso0.png",
+    "source": "assets/generated/quick_actions_b_v2.png",
+    "atlas_cell": 11,
+    "native_size": [
+      309,
+      337
+    ],
+    "body_box": [
+      9,
+      9,
+      300,
+      328
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "koso1",
+    "file": "assets/sprites/koso1.png",
+    "source": "assets/generated/quick_actions_b_v2.png",
+    "atlas_cell": 12,
+    "native_size": [
+      305,
+      341
+    ],
+    "body_box": [
+      9,
+      9,
+      296,
+      332
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "suya0",
+    "file": "assets/sprites/suya0.png",
+    "source": "assets/generated/quick_actions_c_v2.png",
+    "atlas_cell": 1,
+    "native_size": [
+      297,
+      370
+    ],
+    "body_box": [
+      9,
+      9,
+      288,
+      361
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "suya1",
+    "file": "assets/sprites/suya1.png",
+    "source": "assets/generated/quick_actions_c_v2.png",
+    "atlas_cell": 2,
+    "native_size": [
+      273,
+      379
+    ],
+    "body_box": [
+      9,
+      9,
+      264,
+      370
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "pero0",
+    "file": "assets/sprites/pero0.png",
+    "source": "assets/generated/quick_actions_c_v2.png",
+    "atlas_cell": 3,
+    "native_size": [
+      277,
+      388
+    ],
+    "body_box": [
+      9,
+      9,
+      268,
+      379
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "pero1",
+    "file": "assets/sprites/pero1.png",
+    "source": "assets/generated/quick_actions_c_v2.png",
+    "atlas_cell": 4,
+    "native_size": [
+      313,
+      374
+    ],
+    "body_box": [
+      9,
+      9,
+      304,
+      365
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "nico0",
+    "file": "assets/sprites/nico0.png",
+    "source": "assets/generated/quick_actions_c_v2.png",
+    "atlas_cell": 5,
+    "native_size": [
+      287,
+      338
+    ],
+    "body_box": [
+      9,
+      9,
+      278,
+      329
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "nico1",
+    "file": "assets/sprites/nico1.png",
+    "source": "assets/generated/quick_actions_c_v2.png",
+    "atlas_cell": 6,
+    "native_size": [
+      285,
+      337
+    ],
+    "body_box": [
+      9,
+      9,
+      276,
+      328
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "bata0",
+    "file": "assets/sprites/bata0.png",
+    "source": "assets/generated/quick_actions_c_v2.png",
+    "atlas_cell": 7,
+    "native_size": [
+      362,
+      284
+    ],
+    "body_box": [
+      9,
+      9,
+      353,
+      275
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "bata1",
+    "file": "assets/sprites/bata1.png",
+    "source": "assets/generated/quick_actions_c_v2.png",
+    "atlas_cell": 8,
+    "native_size": [
+      372,
+      319
+    ],
+    "body_box": [
+      9,
+      9,
+      363,
+      310
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "doko",
+    "file": "assets/sprites/doko.png",
+    "source": "assets/generated/quick_actions_c_v2.png",
+    "atlas_cell": 9,
+    "native_size": [
+      263,
+      385
+    ],
+    "body_box": [
+      9,
+      9,
+      254,
+      376
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "shan",
+    "file": "assets/sprites/shan.png",
+    "source": "assets/generated/quick_actions_c_v2.png",
+    "atlas_cell": 10,
+    "native_size": [
+      279,
+      378
+    ],
+    "body_box": [
+      9,
+      9,
+      270,
+      369
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "tatan",
+    "file": "assets/sprites/tatan.png",
+    "source": "assets/generated/quick_actions_c_v2.png",
+    "atlas_cell": 11,
+    "native_size": [
+      354,
+      383
+    ],
+    "body_box": [
+      9,
+      9,
+      345,
+      374
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "jyan",
+    "file": "assets/sprites/jyan.png",
+    "source": "assets/generated/quick_actions_c_v2.png",
+    "atlas_cell": 12,
+    "native_size": [
+      349,
+      383
+    ],
+    "body_box": [
+      9,
+      9,
+      340,
+      374
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "gyu0",
+    "file": "assets/sprites/gyu0.png",
+    "source": "assets/generated/quick_actions_d_v2.png",
+    "atlas_cell": 1,
+    "native_size": [
+      294,
+      344
+    ],
+    "body_box": [
+      9,
+      9,
+      282,
+      335
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "gyu1",
+    "file": "assets/sprites/gyu1.png",
+    "source": "assets/generated/quick_actions_d_v2.png",
+    "atlas_cell": 2,
+    "native_size": [
+      328,
+      336
+    ],
+    "body_box": [
+      9,
+      9,
+      319,
+      327
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "pikon",
+    "file": "assets/sprites/pikon.png",
+    "source": "assets/generated/quick_actions_d_v2.png",
+    "atlas_cell": 3,
+    "native_size": [
+      291,
+      351
+    ],
+    "body_box": [
+      32,
+      9,
+      282,
+      342
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "den",
+    "file": "assets/sprites/den.png",
+    "source": "assets/generated/quick_actions_d_v2.png",
+    "atlas_cell": 4,
+    "native_size": [
+      408,
+      209
+    ],
+    "body_box": [
+      9,
+      9,
+      395,
+      200
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "sun0",
+    "file": "assets/sprites/sun0.png",
+    "source": "assets/generated/quick_actions_d_v2.png",
+    "atlas_cell": 5,
+    "native_size": [
+      287,
+      349
+    ],
+    "body_box": [
+      20,
+      9,
+      278,
+      340
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "sun1",
+    "file": "assets/sprites/sun1.png",
+    "source": "assets/generated/quick_actions_d_v2.png",
+    "atlas_cell": 6,
+    "native_size": [
+      312,
+      338
+    ],
+    "body_box": [
+      9,
+      9,
+      303,
+      329
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "oh",
+    "file": "assets/sprites/oh.png",
+    "source": "assets/generated/quick_actions_d_v2.png",
+    "atlas_cell": 7,
+    "native_size": [
+      299,
+      337
+    ],
+    "body_box": [
+      9,
+      9,
+      290,
+      328
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "oi",
+    "file": "assets/sprites/oi.png",
+    "source": "assets/generated/quick_actions_d_v2.png",
+    "atlas_cell": 8,
+    "native_size": [
+      307,
+      364
+    ],
+    "body_box": [
+      35,
+      9,
+      298,
+      355
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "gasa",
+    "file": "assets/sprites/gasa.png",
+    "source": "assets/generated/quick_actions_d_v2.png",
+    "atlas_cell": 9,
+    "native_size": [
+      341,
+      337
+    ],
+    "body_box": [
+      9,
+      9,
+      332,
+      328
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "ka",
+    "file": "assets/sprites/ka.png",
+    "source": "assets/generated/quick_actions_d_v2.png",
+    "atlas_cell": 10,
+    "native_size": [
+      313,
+      347
+    ],
+    "body_box": [
+      9,
+      9,
+      304,
+      338
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "don",
+    "file": "assets/sprites/don.png",
+    "source": "assets/generated/quick_actions_d_v2.png",
+    "atlas_cell": 11,
+    "native_size": [
+      316,
+      342
+    ],
+    "body_box": [
+      9,
+      9,
+      298,
+      333
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "chew_zoom",
+    "file": "assets/sprites/chew_zoom.png",
+    "source": "assets/generated/quick_actions_d_v2.png",
+    "atlas_cell": 12,
+    "native_size": [
+      340,
+      328
+    ],
+    "body_box": [
+      21,
+      9,
+      326,
+      319
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "kira2",
+    "file": "assets/sprites/kira2.png",
+    "source": "assets/generated/quick_actions_e_v2.png",
+    "atlas_cell": 1,
+    "native_size": [
+      358,
+      386
+    ],
+    "body_box": [
+      9,
+      9,
+      349,
+      377
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "pika2",
+    "file": "assets/sprites/pika2.png",
+    "source": "assets/generated/quick_actions_e_v2.png",
+    "atlas_cell": 2,
+    "native_size": [
+      317,
+      393
+    ],
+    "body_box": [
+      23,
+      9,
+      308,
+      384
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "mofu2",
+    "file": "assets/sprites/mofu2.png",
+    "source": "assets/generated/quick_actions_e_v2.png",
+    "atlas_cell": 3,
+    "native_size": [
+      302,
+      394
+    ],
+    "body_box": [
+      9,
+      9,
+      293,
+      385
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "nade2",
+    "file": "assets/sprites/nade2.png",
+    "source": "assets/generated/quick_actions_e_v2.png",
+    "atlas_cell": 4,
+    "native_size": [
+      311,
+      395
+    ],
+    "body_box": [
+      9,
+      9,
+      302,
+      386
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "guru2",
+    "file": "assets/sprites/guru2.png",
+    "source": "assets/generated/quick_actions_e_v2.png",
+    "atlas_cell": 5,
+    "native_size": [
+      387,
+      306
+    ],
+    "body_box": [
+      9,
+      9,
+      378,
+      297
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "goro2",
+    "file": "assets/sprites/goro2.png",
+    "source": "assets/generated/quick_actions_e_v2.png",
+    "atlas_cell": 6,
+    "native_size": [
+      332,
+      293
+    ],
+    "body_box": [
+      16,
+      15,
+      323,
+      284
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "waku2",
+    "file": "assets/sprites/waku2.png",
+    "source": "assets/generated/quick_actions_e_v2.png",
+    "atlas_cell": 7,
+    "native_size": [
+      307,
+      359
+    ],
+    "body_box": [
+      33,
+      9,
+      298,
+      350
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "uzu2",
+    "file": "assets/sprites/uzu2.png",
+    "source": "assets/generated/quick_actions_e_v2.png",
+    "atlas_cell": 8,
+    "native_size": [
+      326,
+      357
+    ],
+    "body_box": [
+      24,
+      9,
+      296,
+      348
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "noro2",
+    "file": "assets/sprites/noro2.png",
+    "source": "assets/generated/quick_actions_e_v2.png",
+    "atlas_cell": 9,
+    "native_size": [
+      297,
+      370
+    ],
+    "body_box": [
+      21,
+      9,
+      288,
+      361
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "uro2",
+    "file": "assets/sprites/uro2.png",
+    "source": "assets/generated/quick_actions_e_v2.png",
+    "atlas_cell": 10,
+    "native_size": [
+      299,
+      370
+    ],
+    "body_box": [
+      15,
+      9,
+      290,
+      361
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "teku2",
+    "file": "assets/sprites/teku2.png",
+    "source": "assets/generated/quick_actions_e_v2.png",
+    "atlas_cell": 11,
+    "native_size": [
+      385,
+      358
+    ],
+    "body_box": [
+      9,
+      9,
+      376,
+      349
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "koso2",
+    "file": "assets/sprites/koso2.png",
+    "source": "assets/generated/quick_actions_e_v2.png",
+    "atlas_cell": 12,
+    "native_size": [
+      313,
+      358
+    ],
+    "body_box": [
+      9,
+      9,
+      304,
+      349
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "device0",
+    "file": "assets/sprites/device0.png",
+    "source": "assets/generated/device_wing_fix_v2.png",
+    "atlas_cell": 1,
+    "native_size": [
+      355,
+      354
+    ],
+    "body_box": [
+      6,
+      6,
+      348,
+      348
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "device1",
+    "file": "assets/sprites/device1.png",
+    "source": "assets/generated/device_wing_fix_v2.png",
+    "atlas_cell": 2,
+    "native_size": [
+      357,
+      354
+    ],
+    "body_box": [
+      6,
+      6,
+      350,
+      348
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "device2",
+    "file": "assets/sprites/device2.png",
+    "source": "assets/generated/device_wing_fix_v2.png",
+    "atlas_cell": 3,
+    "native_size": [
+      352,
+      354
+    ],
+    "body_box": [
+      6,
+      6,
+      346,
+      348
+    ],
+    "art": "GPT image",
+    "alpha": true
+  },
+  {
+    "name": "device3",
+    "file": "assets/sprites/device3.png",
+    "source": "assets/generated/device_wing_fix_v2.png",
+    "atlas_cell": 4,
+    "native_size": [
+      358,
+      354
+    ],
+    "body_box": [
+      6,
+      6,
+      351,
+      348
+    ],
+    "art": "GPT image",
+    "alpha": true
+  }
+]

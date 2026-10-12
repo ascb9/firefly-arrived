@@ -1,0 +1,40 @@
+{
+  "all_sprite_pngs_valid": true,
+  "total_sprite_parts": 282,
+  "new_gpt_pose_parts": 82,
+  "ending_firefly_drawn_frames": 48,
+  "ending_stelle_drawn_frames": 18,
+  "firefly_boots_identical_all_ending_frames": true,
+  "stelle_bin_lower_body_identical_all_ending_frames": true,
+  "ending_pose_indices_monotonic": true,
+  "sing_mouth_native_face_axis_error_px": 0.2515,
+  "sing_mouth_eye_axis_rotation_error_deg": 0.0425,
+  "sing_body_mouth_only": {
+    "body_outside_mouth_identical": true,
+    "distinct_mouth_samples": 6
+  },
+  "closeup_body_mouth_only": {
+    "body_outside_mouth_identical": true,
+    "distinct_mouth_samples": 6
+  },
+  "chorus_body_mouth_only": {
+    "body_outside_mouth_identical": true,
+    "distinct_mouth_samples": 6
+  },
+  "chorus_sustained_vowel": true,
+  "chorus_opening_period_s": 0.8823529411764706,
+  "chorus_jaw_cycles_per_second": 1.1333333333333333,
+  "yo_source_onsets": [
+    36.169,
+    36.603
+  ],
+  "impact_source_onsets": [
+    149.983,
+    150.317,
+    150.751,
+    151.318,
+    151.752
+  ],
+  "source_onsets_are_native_frame_times": true,
+  "preview_representative_frames": 48
+}
